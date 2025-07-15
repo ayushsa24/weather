@@ -10,13 +10,6 @@ Whether you're checking the weather before planning your day or exploring how to
 
 ---
 
-## 🚀 Live Demo
-
-🔗 [Your Live Link Here]  
-*(Optional: Add GitHub Pages or Netlify link)*
-
----
-
 ## 🧑‍💻 Technologies Used
 
 - HTML5  
@@ -31,5 +24,5 @@ Whether you're checking the weather before planning your day or exploring how to
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/weather-web-app.git
-cd weather-web-app
+git clone https://github.com/ayushsa24/weather.git
+cd weather
